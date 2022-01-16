@@ -1,3 +1,3 @@
 # Music-Recommender-System
 
-Uploading the latest version of the project soon.
+Kaggle's Millon Song Dataset Music Recommender Challenge.
